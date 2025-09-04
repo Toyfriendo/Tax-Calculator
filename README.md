@@ -81,15 +81,9 @@ All code should follow **PEP 8** and include type hints where practical. For UI
 
 ---
 
-## 🛡️ License
-
-Licensed under the **MIT License**—see [`LICENSE`](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgments
 
 * Python ❤️ Tkinter for the GUI stack.
 * Inspired by countless late‑night tax calculations gone wrong.
 
-<div align="center">Made with 🤖 &nbsp;and&nbsp; ☕</div>
+<div align="center">GLHF &nbsp;and&nbsp; ☕</div>
