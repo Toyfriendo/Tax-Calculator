@@ -1,0 +1,31 @@
+{
+  "Flat 10%": {
+    "name": "Flat 10%",
+    "mode": "flat",
+    "flat_rate": 10.0,
+    "brackets": []
+  },
+  "Sample Progressive": {
+    "name": "Sample Progressive",
+    "mode": "progressive",
+    "flat_rate": 10.0,
+    "brackets": [
+      {
+        "up_to": 10000,
+        "rate": 5.0
+      },
+      {
+        "up_to": 30000,
+        "rate": 10.0
+      },
+      {
+        "up_to": 80000,
+        "rate": 20.0
+      },
+      {
+        "up_to": null,
+        "rate": 30.0
+      }
+    ]
+  }
+}
